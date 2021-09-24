@@ -1,5 +1,5 @@
 - Hi, I’m @weinberg.
-- I make random stuff on the internet. For work I do fullstack node, react and devops.
+- I make random stuff on the internet. For work I do fullstack software development and devops.
 - 🌱 I’m currently learning go, k8s
 
 <!---
