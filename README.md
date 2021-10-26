@@ -5,7 +5,7 @@
 
 # Projects
 
-- [Roadtrip](https://github.com/weinberg/roadtrip-v2) - Multiplayer roadtrip client-server game built with typescript, go, graphql, k8s, etc.
+- [Roadtrip](https://github.com/weinberg/roadtrip-v2) - Multiplayer game built with typescript, go, graphql, k8s, etc.
 - [JSDB](https://github.com/weinberg/jsdb) - very simple in-memory relational database to demonstrate how JOINs work in SQL.
 - [TermCaptcha](https://github.com/weinberg/termcaptcha) - CAPTCHA for the terminal.
 - [Gamasutra Puzzle Dependency Graph Primer](https://www.gamedeveloper.com/design/puzzle-dependency-graph-primer) - Gamasutra article
